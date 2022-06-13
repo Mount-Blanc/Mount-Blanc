@@ -7,8 +7,8 @@ Front-End
 ## 🌱 I’m currently learning
 React
 
-- 📫 How to reach me ...
-
+## 📫 How to reach me ...
+ Send an email to mountblanc87@gmail.com
 <!---
 Mount-Blanc/Mount-Blanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
