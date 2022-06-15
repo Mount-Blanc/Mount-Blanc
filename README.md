@@ -1,11 +1,12 @@
- # <div align=center >Hi, I'm</div>
+ # Hi, I'm
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=1EA715&vCenter=true&lines=Mount-Blanc)](https://git.io/typing-svg)
+
  ![Code typing-bro](https://user-images.githubusercontent.com/102170589/172969233-4c962a6b-4953-486c-a66e-386a85b205d5.svg)
 <a href="https://storyset.com/work">Work illustrations by Storyset</a>
 ##  👀 I’m interested in
 Front-End
 
-## I currently know
+## I Currently Know
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
