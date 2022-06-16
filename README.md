@@ -4,7 +4,7 @@
  ![Code typing-bro](https://user-images.githubusercontent.com/102170589/172969233-4c962a6b-4953-486c-a66e-386a85b205d5.svg)
 <a href="https://storyset.com/work">Work illustrations by Storyset</a>
 ##  👀 I’m interested in
-Front-End
+:desktop_computer: Front-End
 
 ## :brain: I Currently Know
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
