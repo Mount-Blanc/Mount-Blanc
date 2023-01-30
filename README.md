@@ -7,11 +7,6 @@
 :desktop_computer: Front-End
 
 ## :brain: I Currently Know
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🌱 I’m Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,express,graphql,firebase,mongodb)](https://skillicons.dev)
 ## 📫 How to reach me
  Send an email to mountblanc87@gmail.com
