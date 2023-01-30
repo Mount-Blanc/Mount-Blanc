@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌱 I’m Currently Learning
- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,firebase,node.js,express,graphql](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,firebase,node.js,express,graphql](https://skillicons.dev)
 ## 📫 How to reach me
  Send an email to mountblanc87@gmail.com
 <!---
