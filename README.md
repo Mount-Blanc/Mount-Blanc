@@ -9,7 +9,7 @@
 ## :brain: I Currently Know
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,express,graphql,firebase,mongodb)](https://skillicons.dev)
 ## 📫 How to reach me
- Send an email to mountblanc87@gmail.com
+ Send an email to mountblanc100@gmail.com
 <!---
 Mount-Blanc/Mount-Blanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
