@@ -7,7 +7,7 @@
 :desktop_computer: Front-End
 
 ## :brain: I Currently Know
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,reactnative,nodejs,express,graphql,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,express,graphql,firebase,mongodb)](https://skillicons.dev)
 ## 📫 How to reach me
  Send an email to mountblanc100@gmail.com
 <!---
